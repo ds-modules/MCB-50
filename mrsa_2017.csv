@@ -1,464 +1,464 @@
-,Year,State,HAI,Facility1,Facility1_ID,County,Infection_Count,Num_patients
-4,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Methodist Hospital of Sacramento,30000037.0,Sacramento,3.0,39316.0
-5,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Amador Hospital,30000108.0,Amador,0.0,9275.0
-6,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Auburn Faith Hospital,30000109.0,Placer,0.0,10500.0
-7,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),University of California Davis Medical Center,30000113.0,Sacramento,25.0,190702.0
-8,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"University of California Davis Medical Center, Rehabilitation Unit",30000113.0,Sacramento,0.0,5369.0
-9,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Barton Memorial Hospital,30000114.0,El Dorado,0.0,7200.0
-10,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Dameron Hospital,30000117.0,San Joaquin,3.0,18527.0
-11,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Doctors Hospital of Manteca,30000118.0,San Joaquin,0.0,13868.0
-12,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mark Twain Medical Center,30000120.0,Calaveras,0.0,3407.0
-13,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marshall Medical Center,30000121.0,El Dorado,0.0,21979.0
-14,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Doctors Medical Center,30000122.0,Stanislaus,10.0,116916.0
-15,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Memorial Medical Center,30000123.0,Stanislaus,2.0,79526.0
-16,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy General Hospital,30000124.0,Sacramento,3.0,60668.0
-17,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Mercy General Hospital, Rehabilitation Unit",30000124.0,Sacramento,0.0,6084.0
-18,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Emanuel Medical Center,30000125.0,Stanislaus,1.0,37758.0
-19,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy San Juan Medical Center,30000127.0,Sacramento,4.0,94885.0
-20,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Central Valley Specialty Hospital,30000129.0,Stanislaus,2.0,27458.0
-21,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Sacramento",30000130.0,Sacramento,1.0,50394.0
-22,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Oak Valley Hospital District,30000131.0,Stanislaus,0.0,3283.0
-23,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, South Sacramento",30000133.0,Sacramento,2.0,58450.0
-24,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Roseville Medical Center,30000134.0,Placer,4.0,79988.0
-25,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Roseville Medical Center, Rehabilitation Unit",30000134.0,Placer,0.0,14070.0
-26,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Joaquin General Hospital,30000135.0,San Joaquin,4.0,49725.0
-27,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Lodi Memorial,30000139.0,San Joaquin,1.0,34518.0
-28,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Adventist Health Lodi Memorial, Rehabilitation Unit",30000139.0,San Joaquin,0.0,1871.0
-29,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Tracy Community Hospital,30000141.0,San Joaquin,0.0,13343.0
-30,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Joseph's Medical Center Of Stockton,30000143.0,San Joaquin,2.0,88722.0
-31,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Woodland Memorial Hospital,30000146.0,Yolo,1.0,11972.0
-32,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Davis Hospital,30000149.0,Yolo,1.0,13849.0
-33,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Medical Center, Sacramento",30000151.0,Sacramento,16.0,149885.0
-34,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Hospital of Folsom,30000901.0,Sacramento,0.0,24400.0
-35,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Vibra Hospital of Sacramento,30000907.0,Sacramento,2.0,15651.0
-36,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Manteca",30000973.0,San Joaquin,0.0,5899.0
-37,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Roseville",30001370.0,Placer,0.0,96179.0
-38,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Shriners Hospitals for Children Northern California,30001506.0,Sacramento,0.0,8189.0
-39,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Stanislaus Surgical Hospital,30001661.0,Stanislaus,0.0,956.0
-40,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Sonora,30001799.0,Tuolumne,0.0,18762.0
-41,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Clovis Community Medical Center,40000095.0,Fresno,2.0,73281.0
-42,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Coalinga Regional Medical Center,40000096.0,Fresno,0.0,375.0
-43,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Regional Medical Center,40000101.0,Fresno,16.0,200539.0
-44,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Community Regional Medical Center, Rehabilitation Unit",40000101.0,Fresno,0.0,8933.0
-45,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),John C. Fremont Healthcare District,40000105.0,Mariposa,0.0,3682.0
-46,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Memorial Hospital Los Banos,40000110.0,Merced,0.0,5495.0
-47,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Madera Community Hospital,40000111.0,Madera,0.0,16844.0
-48,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Medical Center,40000113.0,Merced,1.0,51333.0
-49,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Selma,40000122.0,Fresno,0.0,5964.0
-50,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Reedley,40000124.0,Fresno,0.0,6478.0
-51,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Agnes Medical Center,40000126.0,Fresno,7.0,103923.0
-52,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Valley Children's Hospital,40000129.0,Madera,1.0,77562.0
-53,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fresno Surgical Hospital,40000254.0,Fresno,0.0,3167.0
-54,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Joaquin Valley Rehabilitation Hospital,40000613.0,Fresno,0.0,17826.0
-55,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Fresno",40000949.0,Fresno,1.0,33657.0
-56,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fresno Heart and Surgical Hospital,40001397.0,Fresno,1.0,11660.0
-57,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Marian Regional Medical Center, Arroyo Grande",50000009.0,San Luis Obispo,0.0,8117.0
-58,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Marian Regional Medical Center, Arroyo Grande, Rehabilitation Unit",50000009.0,San Luis Obispo,0.0,5925.0
-59,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Community Memorial Hospital, San Buenaventura",50000014.0,Ventura,2.0,63257.0
-60,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),French Hospital Medical Center,50000016.0,San Luis Obispo,1.0,17977.0
-61,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Goleta Valley Cottage Hospital,50000017.0,Santa Barbara,0.0,3695.0
-62,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Lompoc Valley Medical Center,50000018.0,Santa Barbara,0.0,8125.0
-63,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Los Robles Hospital & Medical Center,50000020.0,Ventura,1.0,71482.0
-64,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marian Regional Medical Center,50000021.0,Santa Barbara,2.0,52636.0
-65,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ojai Valley Community Hospital,50000023.0,Ventura,0.0,1568.0
-66,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St Johns Pleasant Valley Hospital,50000026.0,Ventura,2.0,13971.0
-67,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Ynez Valley Cottage Hospital,50000030.0,Santa Barbara,0.0,776.0
-68,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sierra Vista Regional Medical Center,50000031.0,San Luis Obispo,1.0,23594.0
-69,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St Johns Regional Medical Center,50000035.0,Ventura,3.0,47898.0
-70,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St Johns Regional Medical Center, Rehabilitation Unit",50000035.0,Ventura,0.0,6124.0
-71,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Twin Cities Community Hospital,50000037.0,San Luis Obispo,0.0,16849.0
-72,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ventura County Medical Center,50000039.0,Ventura,1.0,43743.0
-73,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Barbara Cottage Hospital,50000280.0,Santa Barbara,1.0,84623.0
-74,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Santa Barbara Cottage Hospital, Rehabilitation Unit",50000280.0,Santa Barbara,0.0,8882.0
-75,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Simi Valley,50000455.0,Ventura,1.0,29122.0
-76,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Los Robles Hospital & Medical Center, East Campus",50000553.0,Ventura,0.0,3144.0
-77,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Los Robles Hospital & Medical Center, East Campus, Rehabilitation Unit",50000553.0,Ventura,0.0,3278.0
-78,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Thousand Oaks Surgical Hospital,50001468.0,Ventura,0.0,2003.0
-79,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),AHMC Anaheim Regional Medical Center,60000002.0,Orange,2.0,46506.0
-80,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Chapman Global Medical Center,60000006.0,Orange,0.0,5438.0
-81,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital of Orange County,60000007.0,Orange,0.0,62946.0
-82,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),College Hospital Costa Mesa,60000008.0,Orange,0.0,37243.0
-83,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fountain Valley Regional Hospital and Medical Center,60000011.0,Orange,3.0,88854.0
-84,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Foothill Regional Medical Center,60000013.0,Orange,5.0,10250.0
-85,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hoag Memorial Hospital Presbyterian,60000014.0,Orange,3.0,121416.0
-86,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Huntington Beach Hospital,60000015.0,Orange,1.0,10238.0
-87,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),West Anaheim Medical Center,60000016.0,Orange,3.0,24406.0
-88,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Westminster",60000017.0,Orange,22.0,32016.0
-89,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),South Coast Global Medical Center,60000021.0,Orange,0.0,14273.0
-90,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),La Palma Intercommunity Hospital,60000024.0,Orange,0.0,16049.0
-91,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Los Alamitos Medical Center,60000025.0,Orange,7.0,46549.0
-92,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC/Harbor UCLA Medical Center,60000027.0,Los Angeles,6.0,94328.0
-93,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC/Rancho Los Amigos National Rehabilitation Center,60000028.0,Los Angeles,0.0,23007.0
-94,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"LAC/Rancho Los Amigos National Rehabilitation Center, Rehabilitation Unit",60000028.0,Los Angeles,0.0,19929.0
-95,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Martin Luther King Jr. Community Hospital,60000035.0,Los Angeles,2.0,36293.0
-96,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC/Olive View UCLA Medical Center,60000038.0,Los Angeles,5.0,51244.0
-97,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC+USC Medical Center,60000040.0,Los Angeles,12.0,153514.0
-98,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Garden Grove Hospital and Medical Center,60000058.0,Orange,2.0,20061.0
-99,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Hospital Regional Medical Center,60000060.0,Orange,3.0,63871.0
-100,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Mission Hospital Regional Medical Center, Rehabilitation Unit",60000060.0,Orange,0.0,5027.0
-101,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Placentia Linda Hospital,60000062.0,Orange,0.0,14856.0
-102,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saddleback Memorial Medical Center,60000063.0,Orange,0.0,41722.0
-103,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Hospital Laguna Beach,60000066.0,Orange,0.0,10434.0
-104,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Joseph Hospital, Orange",60000067.0,Orange,2.0,78302.0
-105,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Jude Medical Center,60000068.0,Orange,2.0,73487.0
-106,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Jude Medical Center, Rehabilitation Unit",60000068.0,Orange,0.0,8724.0
-107,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),University of California Irvine Medical Center,60000071.0,Orange,9.0,108829.0
-108,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"University of California Irvine Medical Center, Rehabilitation Unit",60000071.0,Orange,0.0,3053.0
-109,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Orange County Global Medical Center,60000073.0,Orange,4.0,41518.0
-110,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Anaheim Global Medical Center,60000074.0,Orange,1.0,15074.0
-111,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Orange Coast Memorial Medical Center,60000208.0,Orange,0.0,43858.0
-112,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hoag Hospital Irvine,60001022.0,Orange,1.0,17291.0
-113,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Healthsouth Tustin Rehabilitation Hospital,60001097.0,Orange,0.0,14012.0
-114,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital at Mission,60001207.0,Orange,0.0,7498.0
-115,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Brea",60001360.0,Orange,0.0,14621.0
-116,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Healthbridge Children's Hospital, Orange",60001674.0,Orange,0.0,1494.0
-117,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Regional Medical Center of San Jose,70000133.0,Santa Clara,14.0,80380.0
-118,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),El Camino Hospital Los Gatos,70000136.0,Santa Clara,0.0,12037.0
-119,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"El Camino Hospital Los Gatos, Rehabilitation Unit",70000136.0,Santa Clara,0.0,5823.0
-120,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital of The Monterey Peninsula,70000137.0,Monterey,2.0,51948.0
-121,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Community Hospital of The Monterey Peninsula, Rehabilitation Unit",70000137.0,Monterey,0.0,3154.0
-122,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Dominican Hospital,70000139.0,Santa Cruz,1.0,46258.0
-123,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Dominican Hospital, Rehabilitation Unit",70000139.0,Santa Cruz,0.0,5799.0
-124,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),George L. Mee Memorial Hospital,70000141.0,Monterey,0.0,18812.0
-125,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hazel Hawkins Memorial Hospital,70000142.0,San Benito,0.0,7101.0
-126,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Natividad Medical Center,70000145.0,Monterey,3.0,33274.0
-127,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Natividad Medical Center, Rehabilitation Unit",70000145.0,Monterey,0.0,7793.0
-128,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),O'Connor Hospital,70000146.0,Santa Clara,3.0,37551.0
-129,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Salinas Valley Memorial Hospital,70000147.0,Monterey,1.0,49268.0
-130,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Clara Valley Medical Center,70000149.0,Santa Clara,1.0,124409.0
-131,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Santa Clara Valley Medical Center, Rehabilitation Unit",70000149.0,Santa Clara,0.0,13301.0
-132,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Jose",70000150.0,Santa Clara,2.0,47252.0
-133,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Good Samaritan Hospital, San Jose",70000153.0,Santa Clara,5.0,76864.0
-134,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Oaks Hospital,70000154.0,Santa Clara,0.0,9837.0
-135,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Mission Oaks Hospital, Rehabilitation Unit",70000154.0,Santa Clara,0.0,4921.0
-136,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Watsonville Community Hospital,70000155.0,Santa Cruz,0.0,16553.0
-137,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Louise Regional Hospital,70000635.0,Santa Clara,0.0,20312.0
-138,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Maternity & Surgery Center of Santa Cruz,70000959.0,Santa Cruz,0.0,6111.0
-139,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Lucile Packard Children's Hospital Stanford,70001349.0,Santa Clara,2.0,65402.0
-140,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),El Camino Hospital,70001351.0,Santa Clara,2.0,76877.0
-141,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Santa Clara",70001355.0,Santa Clara,3.0,93213.0
-142,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Stanford Health Care,70001357.0,Santa Clara,19.0,146933.0
-143,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Scripps Green Hospital,80000022.0,San Diego,3.0,33154.0
-144,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Rady Children's Hospital, San Diego",80000023.0,San Diego,1.0,95612.0
-145,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Memorial Hospital,80000036.0,San Diego,5.0,98706.0
-146,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sharp Memorial Hospital, Rehabilitation Unit",80000036.0,San Diego,1.0,7279.0
-147,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Grossmont Hospital,80000045.0,San Diego,7.0,109655.0
-148,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Grossmont Hospital, Rehabilitation Unit",80000045.0,San Diego,0.0,3639.0
-149,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palomar Health Downtown Campus,80000142.0,San Diego,0.0,0.0
-150,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Palomar Health Downtown Campus, Rehabilitation Unit",80000142.0,San Diego,0.0,6757.0
-151,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kaiser Foundation Hospital Zion Medical Center,80000144.0,San Diego,0.0,67641.0
-152,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pomerado Hospital,80000147.0,San Diego,0.0,22539.0
-153,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Scripps Memorial Hospital, La Jolla",80000149.0,San Diego,6.0,93568.0
-154,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Scripps Memorial Hospital, Encinitas",80000150.0,San Diego,0.0,49072.0
-155,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Scripps Memorial Hospital, Encinitas, Rehabilitation Unit",80000150.0,San Diego,0.0,6510.0
-156,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Tri-City Medical Center,80000152.0,San Diego,1.0,62683.0
-157,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Tri-City Medical Center, Rehabilitation Unit",80000152.0,San Diego,0.0,2654.0
-158,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Mary Birch Hospital For Women And Newborns,80001470.0,San Diego,2.0,68356.0
-159,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alvarado Hospital Medical Center,90000013.0,San Diego,3.0,23776.0
-160,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alvarado Hospital Medical Center, Rehabilitation Unit",90000013.0,San Diego,0.0,2309.0
-161,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Scripps Mercy Hospital Chula Vista,90000016.0,San Diego,1.0,38326.0
-162,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Chula Vista Medical Center,90000021.0,San Diego,1.0,71661.0
-163,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Scripps Mercy Hospital,90000025.0,San Diego,7.0,95968.0
-164,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Coronado Hospital and Healthcare Center,90000033.0,San Diego,0.0,7619.0
-165,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),El Centro Regional Medical Center,90000040.0,Imperial,0.0,23725.0
-166,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, San Diego",90000048.0,San Diego,6.0,19147.0
-167,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Paradise Valley Hospital,90000145.0,San Diego,0.0,21303.0
-168,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Paradise Valley Hospital, Rehabilitation Unit",90000145.0,San Diego,0.0,1766.0
-169,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pioneers Memorial Healthcare District,90000146.0,Imperial,0.0,21913.0
-170,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"UC San Diego Health Hillcrest, Hillcrest Medical Center",90000154.0,San Diego,1.0,35791.0
-171,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Vibra Hospital of San Diego,90000977.0,San Diego,6.0,25529.0
-172,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),UC San Diego Health La Jolla - Jacobs Medical Center & Sulpizio Cardiovascular Center,90001116.0,San Diego,12.0,152181.0
-173,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Santa Rosa Regional Hospital,110000007.0,Sonoma,0.0,23146.0
-174,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Howard Memorial,110000008.0,Mendocino,0.0,6748.0
-175,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Healdsburg District Hospital,110000009.0,Sonoma,0.0,2780.0
-176,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northbay Medical Center,110000010.0,Solano,0.0,36012.0
-177,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital and Rehab Center, Vallejo",110000011.0,Solano,1.0,39967.0
-178,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital and Rehab Center, Vallejo, Rehabilitation Unit",110000011.0,Solano,0.0,16273.0
-179,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Lakeside Hospital,110000019.0,Lake,2.0,7340.0
-180,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mad River Community Hospital,110000021.0,Humboldt,0.0,9338.0
-181,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mendocino Coast District Hospital,110000023.0,Mendocino,0.0,4503.0
-182,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sonoma West Medical Center,110000038.0,Sonoma,0.0,2965.0
-183,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Petaluma Valley Hospital,110000040.0,Sonoma,0.0,12155.0
-184,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Queen of the Valley Medical Center,110000041.0,Napa,1.0,31458.0
-185,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Queen of the Valley Medical Center, Rehabilitation Unit",110000041.0,Napa,0.0,2829.0
-186,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Clearlake,110000044.0,Lake,0.0,5313.0
-187,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Redwood Memorial Hospital,110000045.0,Humboldt,0.0,5677.0
-188,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Coast Hospital,110000049.0,Del Norte,0.0,7996.0
-189,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Coast Hospital, Rehabilitation Unit",110000049.0,Del Norte,0.0,2058.0
-190,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sonoma Valley Hospital,110000056.0,Sonoma,0.0,4271.0
-191,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Jerold Phelps Community Hospital,110000057.0,Humboldt,0.0,1570.0
-192,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health St. Helena,110000058.0,Napa,0.0,17648.0
-193,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Joseph Hospital, Eureka",110000067.0,Humboldt,2.0,33768.0
-194,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Solano Medical Center,110000068.0,Solano,0.0,19839.0
-195,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),The General Hospital,110000069.0,Humboldt,0.0,2528.0
-196,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Ukiah Valley,110000070.0,Mendocino,0.0,13148.0
-197,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northbay Vacavalley Hospital,110000378.0,Solano,0.0,14986.0
-198,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Santa Rosa",110000508.0,Sonoma,0.0,38443.0
-199,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Rafael",110000944.0,Marin,0.0,19306.0
-200,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kentfield Hospital,110000946.0,Marin,1.0,19854.0
-201,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marin General Hospital,110000953.0,Marin,0.0,38209.0
-202,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Novato Community Hospital,110000982.0,Marin,0.0,6367.0
-203,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Good Samaritan Hospital, Bakersfield",120000319.0,Kern,1.0,6657.0
-204,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Delano Regional Medical Center,120000336.0,Kern,2.0,8925.0
-205,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Bakersfield Memorial Hospital,120000338.0,Kern,0.0,65522.0
-206,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kern Medical Center,120000342.0,Kern,1.0,42709.0
-207,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kern Valley Healthcare District,120000344.0,Kern,0.0,3249.0
-208,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Hospital,120000404.0,Kern,0.0,20145.0
-209,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ridgecrest Regional Hospital,120000409.0,Kern,0.0,7466.0
-210,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Bakersfield,120000411.0,Kern,4.0,75656.0
-211,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Tehachapi Valley,120000413.0,Kern,0.0,3724.0
-212,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Healthsouth Bakersfield Rehabilitation Hospital,120000555.0,Kern,0.0,23772.0
-213,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Southwest Hospital,120000701.0,Kern,0.0,27148.0
-214,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Bakersfield Heart Hospital,120001330.0,Kern,0.0,11962.0
-215,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kaweah Delta Medical Center,120001444.0,Tulare,12.0,113435.0
-216,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaweah Delta Medical Center, Rehabilitation Unit",120001444.0,Tulare,0.0,6675.0
-217,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sierra View Medical Center,120001464.0,Tulare,0.0,21643.0
-218,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Tulare Regional Medical Center,120001467.0,Tulare,2.0,10602.0
-219,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alameda Hospital,140000011.0,Alameda,0.0,12249.0
-220,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alta Bates Summit Medical Center, Alta Bates Campus",140000012.0,Alameda,0.0,60928.0
-221,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital & Research Center Oakland,140000014.0,Alameda,0.0,46418.0
-222,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Delta Medical Center,140000016.0,Contra Costa,0.0,30568.0
-223,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Highland Hospital,140000034.0,Alameda,1.0,54817.0
-224,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St Rose Hospital,140000041.0,Alameda,3.0,24144.0
-225,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Washington Hospital,140000118.0,Alameda,1.0,61570.0
-226,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, San Francisco Bay Area",140000148.0,Alameda,3.0,23921.0
-227,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Eden Medical Center,140000183.0,Alameda,1.0,39713.0
-228,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fairmont Hospital,140000184.0,Alameda,0.0,6549.0
-229,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"John Muir Medical Center, Walnut Creek Campus",140000187.0,Contra Costa,2.0,95430.0
-230,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"John Muir Medical Center, Walnut Creek Campus, Rehabilitation Unit",140000187.0,Contra Costa,0.0,7251.0
-231,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Oakland/Richmond",140000188.0,Alameda,4.0,84733.0
-232,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Walnut Creek",140000190.0,Contra Costa,0.0,59653.0
-233,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Richmond Campus",140000191.0,Contra Costa,0.0,15124.0
-234,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Contra Costa Regional Medical Center,140000195.0,Contra Costa,2.0,40074.0
-235,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"John Muir Medical Center, Concord Campus",140000196.0,Contra Costa,2.0,52270.0
-236,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alta Bates Summit Medical Center,140000425.0,Alameda,5.0,54488.0
-237,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alta Bates Summit Medical Center, Rehabilitation Unit",140000425.0,Alameda,0.0,17996.0
-238,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Ramon Regional Medical Center,140000704.0,Contra Costa,0.0,19905.0
-239,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Stanford Health Care - ValleyCare,140000797.0,Alameda,0.0,31922.0
-240,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Fremont",140001086.0,Alameda,0.0,18020.0
-241,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Rosa Memorial Hospital,140001268.0,Sonoma,1.0,70065.0
-242,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Santa Rosa Memorial Hospital, Rehabilitation Unit",140001268.0,Sonoma,0.0,4449.0
-243,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sonoma Developmental Center,150000050.0,Sonoma,0.0,0.0
-244,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fairview Developmental Center,170001767.0,Orange,0.0,408.0
-245,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Porterville Developmental Center,170001874.0,Tulare,0.0,708.0
-246,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, California West Campus Hospital",220000002.0,San Francisco,0.0,38391.0
-247,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Chinese Hospital,220000003.0,San Francisco,0.0,6490.0
-248,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Mateo Medical Center,220000007.0,San Mateo,2.0,13235.0
-249,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Francisco",220000008.0,San Francisco,1.0,65767.0
-250,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, South San Francisco",220000009.0,San Mateo,0.0,23129.0
-251,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Redwood City",220000010.0,San Mateo,1.0,30807.0
-252,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Laguna Honda Hospital & Rehabilitation Center,220000012.0,San Francisco,0.0,127.0
-253,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Laguna Honda Hospital & Rehabilitation Center, Rehabilitation Unit",220000012.0,San Francisco,0.0,817.0
-254,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mills-Peninsula Medical Center,220000017.0,San Mateo,0.0,51984.0
-255,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, St. Luke's Campus Hospital",220000018.0,San Francisco,2.0,27451.0
-256,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Zuckerberg San Francisco General Hospital and Trauma Center,220000019.0,San Francisco,2.0,95793.0
-257,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, Pacific Campus Hospital",220000022.0,San Francisco,4.0,68481.0
-258,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, Davies Campus Hospital",220000023.0,San Francisco,1.0,23263.0
-259,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, Davies Campus Hospital, Rehabilitation Unit",220000023.0,San Francisco,1.0,9254.0
-260,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sequoia Hospital,220000025.0,San Mateo,0.0,25180.0
-261,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Seton Medical Center,220000026.0,San Mateo,0.0,28656.0
-262,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Francis Memorial Hospital,220000029.0,San Francisco,0.0,20366.0
-263,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Saint Francis Memorial Hospital, Rehabilitation Unit",220000029.0,San Francisco,0.0,4160.0
-264,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Mary's Medical Center,220000030.0,San Francisco,1.0,19564.0
-265,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary's Medical Center, Rehabilitation Unit",220000030.0,San Francisco,0.0,4112.0
-266,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),UCSF Medical Center,220000031.0,San Francisco,8.0,144096.0
-267,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Menlo Park Surgical Hospital,220000716.0,San Mateo,0.0,484.0
-268,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Orchard Hospital,230000001.0,Butte,0.0,1304.0
-269,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Eastern Plumas Hospital, Portola Campus",230000004.0,Plumas,0.0,667.0
-270,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Feather River,230000005.0,Butte,0.0,11772.0
-271,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Glenn Medical Center,230000006.0,Glenn,0.0,1494.0
-272,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Banner Lassen Medical Center,230000008.0,Lassen,0.0,4020.0
-273,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mayers Memorial Hospital,230000009.0,Shasta,0.0,1845.0
-274,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Medical Center Redding,230000010.0,Shasta,6.0,63208.0
-275,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Modoc Medical Center,230000011.0,Modoc,0.0,542.0
-276,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Medical Center Mt. Shasta,230000012.0,Siskiyou,0.0,3076.0
-277,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Enloe Medical Center, Esplanade",230000013.0,Butte,3.0,79120.0
-278,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Oroville Hospital,230000014.0,Butte,1.0,37410.0
-279,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Plumas District Hospital,230000015.0,Plumas,0.0,1909.0
-280,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Shasta Regional Medical Center,230000016.0,Shasta,5.0,30368.0
-281,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Seneca District Hospital,230000017.0,Plumas,0.0,436.0
-282,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fairchild Medical Center,230000019.0,Siskiyou,0.0,4394.0
-283,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Elizabeth Community Hospital,230000020.0,Tehama,0.0,8732.0
-285,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Trinity Hospital,230000022.0,Trinity,0.0,2066.0
-286,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Rideout Memorial Hospital,230000261.0,Yuba,6.0,56457.0
-287,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sierra Nevada Memorial Hospital,230000262.0,Nevada,1.0,19007.0
-288,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Tahoe Forest Hospital,230000265.0,Nevada,0.0,5006.0
-289,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Enloe Rehabilitation Center,230000405.0,Butte,0.0,7052.0
-290,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Vibra Hospital of Northern California,230000422.0,Shasta,1.0,15841.0
-291,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Patients' Hospital of Redding,230000444.0,Shasta,0.0,459.0
-292,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Barstow Community Hospital,240000001.0,San Bernardino,1.0,7947.0
-293,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Bear Valley Community Hospital,240000002.0,San Bernardino,0.0,962.0
-294,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Chino Valley Medical Center,240000003.0,San Bernardino,0.0,15962.0
-295,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mammoth Hospital,240000005.0,Mono,0.0,1380.0
-296,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Montclair Hospital Medical Center,240000009.0,San Bernardino,0.0,9056.0
-297,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hi-Desert Medical Center,240000014.0,San Bernardino,0.0,6765.0
-298,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Fontana",240000024.0,San Bernardino,3.0,97075.0
-299,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Medical Center East Campus Hospital,240000025.0,San Bernardino,1.0,14427.0
-300,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Loma Linda University Medical Center East Campus Hospital, Rehabilitation Unit",240000025.0,San Bernardino,0.0,16904.0
-301,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Medical Center,240000027.0,San Bernardino,12.0,101592.0
-302,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Colorado River Medical Center,240000034.0,San Bernardino,0.0,1428.0
-303,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northern Inyo Hospital,240000037.0,Inyo,0.0,4267.0
-304,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Ontario",240000040.0,San Bernardino,9.0,27852.0
-305,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Redlands Community Hospital,240000046.0,San Bernardino,2.0,46050.0
-307,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Antonio Regional Hospital,240000053.0,San Bernardino,2.0,68073.0
-308,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Victor Valley Global Medical Center,240000054.0,San Bernardino,1.0,21009.0
-309,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital of San Bernardino,240000082.0,San Bernardino,0.0,27074.0
-310,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Arrowhead Regional Medical Center,240000100.0,San Bernardino,3.0,97951.0
-311,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Southern Inyo Hospital,240000102.0,Inyo,0.0,0.0
-312,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Bernardine Medical Center,240000103.0,San Bernardino,3.0,67296.0
-313,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary Medical Center, Apple Valley",240000104.0,San Bernardino,5.0,70827.0
-314,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ballard Rehabilitation Hospital,240001218.0,San Bernardino,0.0,14000.0
-315,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Desert Valley Hospital,240001330.0,San Bernardino,1.0,36830.0
-316,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Rancho",240001515.0,San Bernardino,2.0,18043.0
-317,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Riverside",250000004.0,Riverside,4.0,12835.0
-318,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Corona Regional Medical Center,250000006.0,Riverside,4.0,27039.0
-319,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Desert Regional Medical Center,250000008.0,Riverside,3.0,86208.0
-320,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Desert Regional Medical Center, Rehabilitation Unit",250000008.0,Riverside,0.0,2613.0
-321,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Eisenhower Medical Center,250000011.0,Riverside,2.0,73821.0
-322,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Eisenhower Medical Center, Rehabilitation Unit",250000011.0,Riverside,0.0,4677.0
-323,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hemet Valley Medical Center,250000012.0,Riverside,4.0,44549.0
-324,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),John F. Kennedy Memorial Hospital,250000017.0,Riverside,1.0,21417.0
-325,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palo Verde Hospital,250000042.0,Riverside,0.0,2320.0
-326,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Parkview Community Hospital Medical Center,250000044.0,Riverside,2.0,37449.0
-327,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Riverside Community Hospital,250000049.0,Riverside,12.0,102012.0
-328,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Riverside University Health System, Medical Center",250000050.0,Riverside,5.0,78480.0
-329,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Gorgonio Memorial Hospital,250000101.0,Riverside,1.0,14843.0
-330,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Southwest Healthcare System, Wildomar",250000344.0,Riverside,2.0,32639.0
-331,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Southwest Healthcare System, Murrieta",250000507.0,Riverside,0.0,28550.0
-332,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Riverside",250000707.0,Riverside,1.0,52986.0
-333,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Menifee Valley Medical Center,250000727.0,Riverside,1.0,11858.0
-334,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Ventura County Medical Center, Santa Paula Hospital",630010957.0,Ventura,0.0,6497.0
-335,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Antioch",630011203.0,Contra Costa,0.0,29564.0
-336,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Modesto",630011683.0,Stanislaus,0.0,37899.0
-337,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Orange County, Irvine",630011745.0,Orange,1.0,46380.0
-338,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Surgical Hospital, North Valley",630011844.0,Sutter,0.0,1283.0
-339,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Moreno Valley",630011959.0,Riverside,0.0,17685.0
-340,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Surgical Hospital,630012294.0,San Bernardino,0.0,4540.0
-341,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Vacaville",630012364.0,Solano,2.0,28703.0
-342,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Totally Kids Rehabilitation Hospital,630012380.0,San Bernardino,0.0,966.0
-343,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hoag Orthopedic Institute,630012891.0,Orange,0.0,9482.0
-344,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Hanford,630012960.0,Kings,7.0,42857.0
-345,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Loma Linda University Medical Center, Murrieta",630012971.0,Riverside,0.0,31056.0
-346,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Ontario",630013398.0,San Bernardino,0.0,47692.0
-347,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palomar Medical Center,630013873.0,San Diego,4.0,95819.0
-348,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Leandro Hospital,630013913.0,Alameda,0.0,12590.0
-349,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Orange County, Anaheim",630013929.0,Orange,1.0,61348.0
-350,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Temecula Valley Hospital,630014442.0,Riverside,0.0,29362.0
-351,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Leandro",630015029.0,Alameda,1.0,52566.0
-352,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Children's Hospital,630015551.0,San Bernardino,2.0,90751.0
-353,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),UCSF Medical Center at Mission Bay,630015778.0,San Francisco,3.0,91646.0
-354,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),HealthSouth Rehabilitation Hospital of Modesto,630016419.0,Stanislaus,0.0,9980.0
-355,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kentfield Hospital San Francisco,630016625.0,San Francisco,1.0,8976.0
-356,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Diego",630017096.0,San Diego,0.0,46420.0
-357,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Hospital Medical Center, Los Angeles",930000002.0,Los Angeles,3.0,74772.0
-358,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Promise Hospital of East Los Angeles, East L.A Campus",930000003.0,Los Angeles,1.0,4844.0
-359,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Cedars-Sinai Medical Center,930000004.0,Los Angeles,5.0,276049.0
-360,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alhambra Hospital Medical Center,930000005.0,Los Angeles,1.0,20955.0
-361,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alhambra Hospital Medical Center, Rehabilitation Unit",930000005.0,Los Angeles,0.0,3993.0
-362,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Antelope Valley Hospital,930000008.0,Los Angeles,4.0,91533.0
-363,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Beverly Hospital,930000012.0,Los Angeles,2.0,38976.0
-364,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Catalina Island Medical Center,930000013.0,Los Angeles,0.0,461.0
-365,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Barlow Respiratory Hospital,930000014.0,Los Angeles,2.0,26215.0
-366,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Southern California Hospital at Culver City,930000015.0,Los Angeles,5.0,58642.0
-367,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Southern California Hospital at Culver City, Rehabilitation Unit",930000015.0,Los Angeles,0.0,4103.0
-368,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Casa Colina Hospital,930000020.0,Los Angeles,1.0,21712.0
-369,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Centinela Hospital Medical Center,930000022.0,Los Angeles,7.0,60885.0
-370,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Centinela Hospital Medical Center, Rehabilitation Unit",930000022.0,Los Angeles,0.0,3317.0
-371,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Huntington Memorial Hospital,930000026.0,Los Angeles,5.0,122626.0
-372,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Community Hospital,930000027.0,Los Angeles,1.0,36181.0
-373,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),West Hills Hospital & Medical Center,930000028.0,Los Angeles,6.0,43413.0
-374,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),California Rehabilitation Institute,930000031.0,Los Angeles,0.0,24405.0
-375,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Promise Hospital of East Los Angeles, Suburban Campus",930000033.0,Los Angeles,11.0,40312.0
-376,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital Los Angeles,930000034.0,Los Angeles,0.0,111176.0
-377,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Silver Lake Medical Center,930000035.0,Los Angeles,0.0,12113.0
-378,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),City of Hope Helford Clinical Research Hospital,930000036.0,Los Angeles,6.0,71824.0
-379,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Coast Plaza Hospital,930000038.0,Los Angeles,1.0,12300.0
-380,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, South Bay",930000039.0,Los Angeles,4.0,16068.0
-381,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital of Huntington Park,930000040.0,Los Angeles,0.0,14531.0
-382,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Gabriel Valley Medical Center,930000041.0,Los Angeles,1.0,35701.0
-383,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, San Gabriel Valley",930000042.0,Los Angeles,4.0,22184.0
-384,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marina Del Rey Hospital,930000044.0,Los Angeles,3.0,13085.0
-385,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Lakewood Regional Medical Center,930000047.0,Los Angeles,3.0,40508.0
-386,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Monica - UCLA Medical Center and Orthopaedic Hospital,930000049.0,Los Angeles,8.0,85329.0
-387,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Panorama City",930000050.0,Los Angeles,2.0,41701.0
-388,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"PIH Health Hospital, Downey",930000052.0,Los Angeles,1.0,29165.0
-389,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),East Los Angeles Doctors Hospital,930000053.0,Los Angeles,0.0,15225.0
-390,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Encino Hospital Medical Center,930000054.0,Los Angeles,1.0,12241.0
-391,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Foothill Presbyterian Hospital - Johnston Memorial,930000056.0,Los Angeles,1.0,23068.0
-392,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pacific Alliance Medical Center,930000057.0,Los Angeles,0.0,19630.0
-393,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Garfield Medical Center,930000058.0,Los Angeles,1.0,53595.0
-394,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Garfield Medical Center, Rehabilitation Unit",930000058.0,Los Angeles,0.0,5957.0
-395,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Glendale,930000059.0,Los Angeles,5.0,75317.0
-396,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Adventist Health Glendale, Rehabilitation Unit",930000059.0,Los Angeles,0.0,6583.0
-397,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Glendora Community Hospital,930000060.0,Los Angeles,1.0,14483.0
-398,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Greater El Monte Community Hospital,930000062.0,Los Angeles,0.0,15670.0
-399,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Henry Mayo Newhall Hospital,930000063.0,Los Angeles,1.0,53810.0
-400,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Henry Mayo Newhall Hospital, Rehabilitation Unit",930000063.0,Los Angeles,0.0,1856.0
-401,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Southern California Hospital at Hollywood,930000064.0,Los Angeles,4.0,21120.0
-402,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hollywood Presbyterian Medical Center,930000065.0,Los Angeles,4.0,61407.0
-403,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Hollywood Presbyterian Medical Center, Rehabilitation Unit",930000065.0,Los Angeles,0.0,4576.0
-404,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Holy Cross Medical Center,930000066.0,Los Angeles,9.0,81747.0
-405,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Providence Holy Cross Medical Center, Rehabilitation Unit",930000066.0,Los Angeles,0.0,3010.0
-406,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Good Samaritan Hospital, Los Angeles",930000068.0,Los Angeles,2.0,64535.0
-407,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Citrus Valley Medical Center, IC Campus",930000070.0,Los Angeles,3.0,35198.0
-408,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, South Bay",930000071.0,Los Angeles,3.0,46060.0
-409,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Los Angeles",930000072.0,Los Angeles,8.0,118218.0
-410,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Downey",930000074.0,Los Angeles,4.0,88399.0
-411,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, West LA",930000076.0,Los Angeles,2.0,40195.0
-412,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palmdale Regional Medical Center,930000077.0,Los Angeles,0.0,38052.0
-413,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Palmdale Regional Medical Center, Rehabilitation Unit",930000077.0,Los Angeles,0.0,2114.0
-414,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Little Company of Mary Medical Center Torrance,930000081.0,Los Angeles,2.0,70702.0
-415,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital Long Beach,930000082.0,Los Angeles,1.0,16649.0
-416,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Los Angeles Community Hospital,930000085.0,Los Angeles,6.0,28248.0
-417,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Los Angeles",930000088.0,Los Angeles,15.0,28436.0
-418,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, La Mirada",930000089.0,Los Angeles,5.0,19047.0
-419,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Tarzana Medical Center,930000091.0,Los Angeles,1.0,65522.0
-420,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Memorial Hospital of Gardena,930000092.0,Los Angeles,2.0,24102.0
-421,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Glendale Memorial Hospital and Health Center,930000093.0,Los Angeles,3.0,45590.0
-422,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Glendale Memorial Hospital and Health Center, Rehabilitation Unit",930000093.0,Los Angeles,0.0,3560.0
-423,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Long Beach Memorial Medical Center,930000095.0,Los Angeles,5.0,95742.0
-424,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Long Beach Memorial Medical Center, Rehabilitation Unit",930000095.0,Los Angeles,0.0,7189.0
-425,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Methodist Hospital of Southern California,930000096.0,Los Angeles,4.0,69800.0
-426,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Methodist Hospital of Southern California, Rehabilitation Unit",930000096.0,Los Angeles,0.0,6274.0
-427,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"PIH Health Hospital, Whittier",930000099.0,Los Angeles,2.0,68479.0
-428,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"PIH Health Hospital, Whittier, Rehabilitation Unit",930000099.0,Los Angeles,0.0,2457.0
-429,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Saint John's Health Center,930000100.0,Los Angeles,0.0,63053.0
-430,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Saint Joseph Medical Center,930000101.0,Los Angeles,6.0,83231.0
-431,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Providence Saint Joseph Medical Center, Rehabilitation Unit",930000101.0,Los Angeles,0.0,2391.0
-432,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary Medical Center, Long Beach",930000103.0,Los Angeles,4.0,52385.0
-433,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary Medical Center, Long Beach, Rehabilitation Unit",930000103.0,Los Angeles,0.0,4841.0
-434,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Vincent Medical Center,930000104.0,Los Angeles,3.0,60180.0
-435,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Saint Vincent Medical Center, Rehabilitation Unit",930000104.0,Los Angeles,0.0,5386.0
-436,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Olympia Medical Center,930000105.0,Los Angeles,0.0,25081.0
-437,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Monrovia Memorial Hospital,930000107.0,Los Angeles,1.0,12841.0
-438,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Monterey Park Hospital,930000108.0,Los Angeles,0.0,22058.0
-439,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northridge Hospital Medical Center,930000111.0,Los Angeles,2.0,50993.0
-440,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Northridge Hospital Medical Center, Rehabilitation Unit",930000111.0,Los Angeles,0.0,5454.0
-441,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Norwalk Community Hospital,930000112.0,Los Angeles,1.0,15912.0
-442,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),College Medical Center,930000114.0,Los Angeles,0.0,25131.0
-443,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pomona Valley Hospital Medical Center,930000123.0,Los Angeles,4.0,100584.0
-444,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Dimas Community Hospital,930000125.0,Los Angeles,0.0,14932.0
-445,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Torrance Memorial Medical Center,930000127.0,Los Angeles,4.0,98020.0
-446,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Francis Medical Center,930000128.0,Los Angeles,2.0,118114.0
-447,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Valley Presbyterian Hospital,930000129.0,Los Angeles,3.0,66831.0
-448,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Valley Presbyterian Hospital, Rehabilitation Unit",930000129.0,Los Angeles,0.0,3269.0
-449,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Citrus Valley Medical Center, QV Campus",930000132.0,Los Angeles,2.0,59509.0
-450,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Citrus Valley Medical Center, QV Campus, Rehabilitation Unit",930000132.0,Los Angeles,0.0,3798.0
-452,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sherman Oaks Hospital,930000140.0,Los Angeles,4.0,22463.0
-453,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Baldwin Park",930000144.0,Los Angeles,5.0,25819.0
-454,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Whittier Hospital Medical Center,930000151.0,Los Angeles,1.0,35070.0
-455,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Little Company of Mary Medical Center San Pedro,930000157.0,Los Angeles,0.0,18764.0
-456,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Providence Little Company of Mary Medical Center San Pedro, Rehabilitation Unit",930000157.0,Los Angeles,0.0,4701.0
-457,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Miracle Mile Medical Center,930000158.0,Los Angeles,0.0,392.0
-458,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ronald Reagan UCLA Medical Center,930000162.0,Los Angeles,12.0,156313.0
-459,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),USC Kenneth Norris Jr. Cancer Hospital,930000163.0,Los Angeles,0.0,12287.0
-460,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),USC Verdugo Hills Hospital,930000187.0,Los Angeles,1.0,19193.0
-461,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),West Covina Medical Center,930000188.0,Los Angeles,0.0,1692.0
-462,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health White Memorial,930000191.0,Los Angeles,1.0,87998.0
-463,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Adventist Health White Memorial, Rehabilitation Unit",930000191.0,Los Angeles,0.0,3044.0
-464,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Woodland Hills",930000290.0,Los Angeles,1.0,34184.0
-465,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Keck Hospital of USC,930000912.0,Los Angeles,5.0,79300.0
-466,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Keck Hospital of USC, Rehabilitation Unit",930000912.0,Los Angeles,0.0,5575.0
-467,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Baldwin Park",930001543.0,Los Angeles,0.0,49111.0
-468,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Santa Ana",930001607.0,Orange,3.0,15255.0
-469,2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Earl & Loraine Miller Children's Hospital,930001709.0,Los Angeles,2.0,72230.0
+Year,State,HAI,Facility1,Facility1_ID,County,Infection_Count,Num_patients
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Methodist Hospital of Sacramento,30000037.0,Sacramento,3.0,39316.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Amador Hospital,30000108.0,Amador,0.0,9275.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Auburn Faith Hospital,30000109.0,Placer,0.0,10500.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),University of California Davis Medical Center,30000113.0,Sacramento,25.0,190702.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"University of California Davis Medical Center, Rehabilitation Unit",30000113.0,Sacramento,0.0,5369.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Barton Memorial Hospital,30000114.0,El Dorado,0.0,7200.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Dameron Hospital,30000117.0,San Joaquin,3.0,18527.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Doctors Hospital of Manteca,30000118.0,San Joaquin,0.0,13868.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mark Twain Medical Center,30000120.0,Calaveras,0.0,3407.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marshall Medical Center,30000121.0,El Dorado,0.0,21979.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Doctors Medical Center,30000122.0,Stanislaus,10.0,116916.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Memorial Medical Center,30000123.0,Stanislaus,2.0,79526.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy General Hospital,30000124.0,Sacramento,3.0,60668.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Mercy General Hospital, Rehabilitation Unit",30000124.0,Sacramento,0.0,6084.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Emanuel Medical Center,30000125.0,Stanislaus,1.0,37758.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy San Juan Medical Center,30000127.0,Sacramento,4.0,94885.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Central Valley Specialty Hospital,30000129.0,Stanislaus,2.0,27458.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Sacramento",30000130.0,Sacramento,1.0,50394.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Oak Valley Hospital District,30000131.0,Stanislaus,0.0,3283.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, South Sacramento",30000133.0,Sacramento,2.0,58450.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Roseville Medical Center,30000134.0,Placer,4.0,79988.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Roseville Medical Center, Rehabilitation Unit",30000134.0,Placer,0.0,14070.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Joaquin General Hospital,30000135.0,San Joaquin,4.0,49725.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Lodi Memorial,30000139.0,San Joaquin,1.0,34518.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Adventist Health Lodi Memorial, Rehabilitation Unit",30000139.0,San Joaquin,0.0,1871.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Tracy Community Hospital,30000141.0,San Joaquin,0.0,13343.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Joseph's Medical Center Of Stockton,30000143.0,San Joaquin,2.0,88722.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Woodland Memorial Hospital,30000146.0,Yolo,1.0,11972.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Davis Hospital,30000149.0,Yolo,1.0,13849.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Medical Center, Sacramento",30000151.0,Sacramento,16.0,149885.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Hospital of Folsom,30000901.0,Sacramento,0.0,24400.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Vibra Hospital of Sacramento,30000907.0,Sacramento,2.0,15651.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Manteca",30000973.0,San Joaquin,0.0,5899.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Roseville",30001370.0,Placer,0.0,96179.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Shriners Hospitals for Children Northern California,30001506.0,Sacramento,0.0,8189.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Stanislaus Surgical Hospital,30001661.0,Stanislaus,0.0,956.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Sonora,30001799.0,Tuolumne,0.0,18762.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Clovis Community Medical Center,40000095.0,Fresno,2.0,73281.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Coalinga Regional Medical Center,40000096.0,Fresno,0.0,375.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Regional Medical Center,40000101.0,Fresno,16.0,200539.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Community Regional Medical Center, Rehabilitation Unit",40000101.0,Fresno,0.0,8933.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),John C. Fremont Healthcare District,40000105.0,Mariposa,0.0,3682.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Memorial Hospital Los Banos,40000110.0,Merced,0.0,5495.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Madera Community Hospital,40000111.0,Madera,0.0,16844.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Medical Center,40000113.0,Merced,1.0,51333.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Selma,40000122.0,Fresno,0.0,5964.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Reedley,40000124.0,Fresno,0.0,6478.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Agnes Medical Center,40000126.0,Fresno,7.0,103923.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Valley Children's Hospital,40000129.0,Madera,1.0,77562.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fresno Surgical Hospital,40000254.0,Fresno,0.0,3167.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Joaquin Valley Rehabilitation Hospital,40000613.0,Fresno,0.0,17826.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Fresno",40000949.0,Fresno,1.0,33657.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fresno Heart and Surgical Hospital,40001397.0,Fresno,1.0,11660.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Marian Regional Medical Center, Arroyo Grande",50000009.0,San Luis Obispo,0.0,8117.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Marian Regional Medical Center, Arroyo Grande, Rehabilitation Unit",50000009.0,San Luis Obispo,0.0,5925.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Community Memorial Hospital, San Buenaventura",50000014.0,Ventura,2.0,63257.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),French Hospital Medical Center,50000016.0,San Luis Obispo,1.0,17977.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Goleta Valley Cottage Hospital,50000017.0,Santa Barbara,0.0,3695.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Lompoc Valley Medical Center,50000018.0,Santa Barbara,0.0,8125.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Los Robles Hospital & Medical Center,50000020.0,Ventura,1.0,71482.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marian Regional Medical Center,50000021.0,Santa Barbara,2.0,52636.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ojai Valley Community Hospital,50000023.0,Ventura,0.0,1568.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St Johns Pleasant Valley Hospital,50000026.0,Ventura,2.0,13971.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Ynez Valley Cottage Hospital,50000030.0,Santa Barbara,0.0,776.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sierra Vista Regional Medical Center,50000031.0,San Luis Obispo,1.0,23594.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St Johns Regional Medical Center,50000035.0,Ventura,3.0,47898.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St Johns Regional Medical Center, Rehabilitation Unit",50000035.0,Ventura,0.0,6124.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Twin Cities Community Hospital,50000037.0,San Luis Obispo,0.0,16849.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ventura County Medical Center,50000039.0,Ventura,1.0,43743.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Barbara Cottage Hospital,50000280.0,Santa Barbara,1.0,84623.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Santa Barbara Cottage Hospital, Rehabilitation Unit",50000280.0,Santa Barbara,0.0,8882.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Simi Valley,50000455.0,Ventura,1.0,29122.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Los Robles Hospital & Medical Center, East Campus",50000553.0,Ventura,0.0,3144.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Los Robles Hospital & Medical Center, East Campus, Rehabilitation Unit",50000553.0,Ventura,0.0,3278.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Thousand Oaks Surgical Hospital,50001468.0,Ventura,0.0,2003.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),AHMC Anaheim Regional Medical Center,60000002.0,Orange,2.0,46506.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Chapman Global Medical Center,60000006.0,Orange,0.0,5438.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital of Orange County,60000007.0,Orange,0.0,62946.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),College Hospital Costa Mesa,60000008.0,Orange,0.0,37243.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fountain Valley Regional Hospital and Medical Center,60000011.0,Orange,3.0,88854.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Foothill Regional Medical Center,60000013.0,Orange,5.0,10250.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hoag Memorial Hospital Presbyterian,60000014.0,Orange,3.0,121416.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Huntington Beach Hospital,60000015.0,Orange,1.0,10238.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),West Anaheim Medical Center,60000016.0,Orange,3.0,24406.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Westminster",60000017.0,Orange,22.0,32016.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),South Coast Global Medical Center,60000021.0,Orange,0.0,14273.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),La Palma Intercommunity Hospital,60000024.0,Orange,0.0,16049.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Los Alamitos Medical Center,60000025.0,Orange,7.0,46549.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC/Harbor UCLA Medical Center,60000027.0,Los Angeles,6.0,94328.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC/Rancho Los Amigos National Rehabilitation Center,60000028.0,Los Angeles,0.0,23007.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"LAC/Rancho Los Amigos National Rehabilitation Center, Rehabilitation Unit",60000028.0,Los Angeles,0.0,19929.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Martin Luther King Jr. Community Hospital,60000035.0,Los Angeles,2.0,36293.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC/Olive View UCLA Medical Center,60000038.0,Los Angeles,5.0,51244.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),LAC+USC Medical Center,60000040.0,Los Angeles,12.0,153514.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Garden Grove Hospital and Medical Center,60000058.0,Orange,2.0,20061.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Hospital Regional Medical Center,60000060.0,Orange,3.0,63871.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Mission Hospital Regional Medical Center, Rehabilitation Unit",60000060.0,Orange,0.0,5027.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Placentia Linda Hospital,60000062.0,Orange,0.0,14856.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saddleback Memorial Medical Center,60000063.0,Orange,0.0,41722.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Hospital Laguna Beach,60000066.0,Orange,0.0,10434.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Joseph Hospital, Orange",60000067.0,Orange,2.0,78302.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Jude Medical Center,60000068.0,Orange,2.0,73487.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Jude Medical Center, Rehabilitation Unit",60000068.0,Orange,0.0,8724.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),University of California Irvine Medical Center,60000071.0,Orange,9.0,108829.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"University of California Irvine Medical Center, Rehabilitation Unit",60000071.0,Orange,0.0,3053.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Orange County Global Medical Center,60000073.0,Orange,4.0,41518.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Anaheim Global Medical Center,60000074.0,Orange,1.0,15074.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Orange Coast Memorial Medical Center,60000208.0,Orange,0.0,43858.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hoag Hospital Irvine,60001022.0,Orange,1.0,17291.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Healthsouth Tustin Rehabilitation Hospital,60001097.0,Orange,0.0,14012.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital at Mission,60001207.0,Orange,0.0,7498.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Brea",60001360.0,Orange,0.0,14621.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Healthbridge Children's Hospital, Orange",60001674.0,Orange,0.0,1494.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Regional Medical Center of San Jose,70000133.0,Santa Clara,14.0,80380.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),El Camino Hospital Los Gatos,70000136.0,Santa Clara,0.0,12037.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"El Camino Hospital Los Gatos, Rehabilitation Unit",70000136.0,Santa Clara,0.0,5823.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital of The Monterey Peninsula,70000137.0,Monterey,2.0,51948.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Community Hospital of The Monterey Peninsula, Rehabilitation Unit",70000137.0,Monterey,0.0,3154.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Dominican Hospital,70000139.0,Santa Cruz,1.0,46258.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Dominican Hospital, Rehabilitation Unit",70000139.0,Santa Cruz,0.0,5799.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),George L. Mee Memorial Hospital,70000141.0,Monterey,0.0,18812.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hazel Hawkins Memorial Hospital,70000142.0,San Benito,0.0,7101.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Natividad Medical Center,70000145.0,Monterey,3.0,33274.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Natividad Medical Center, Rehabilitation Unit",70000145.0,Monterey,0.0,7793.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),O'Connor Hospital,70000146.0,Santa Clara,3.0,37551.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Salinas Valley Memorial Hospital,70000147.0,Monterey,1.0,49268.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Clara Valley Medical Center,70000149.0,Santa Clara,1.0,124409.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Santa Clara Valley Medical Center, Rehabilitation Unit",70000149.0,Santa Clara,0.0,13301.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Jose",70000150.0,Santa Clara,2.0,47252.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Good Samaritan Hospital, San Jose",70000153.0,Santa Clara,5.0,76864.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Oaks Hospital,70000154.0,Santa Clara,0.0,9837.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Mission Oaks Hospital, Rehabilitation Unit",70000154.0,Santa Clara,0.0,4921.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Watsonville Community Hospital,70000155.0,Santa Cruz,0.0,16553.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Louise Regional Hospital,70000635.0,Santa Clara,0.0,20312.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Maternity & Surgery Center of Santa Cruz,70000959.0,Santa Cruz,0.0,6111.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Lucile Packard Children's Hospital Stanford,70001349.0,Santa Clara,2.0,65402.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),El Camino Hospital,70001351.0,Santa Clara,2.0,76877.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Santa Clara",70001355.0,Santa Clara,3.0,93213.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Stanford Health Care,70001357.0,Santa Clara,19.0,146933.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Scripps Green Hospital,80000022.0,San Diego,3.0,33154.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Rady Children's Hospital, San Diego",80000023.0,San Diego,1.0,95612.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Memorial Hospital,80000036.0,San Diego,5.0,98706.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sharp Memorial Hospital, Rehabilitation Unit",80000036.0,San Diego,1.0,7279.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Grossmont Hospital,80000045.0,San Diego,7.0,109655.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Grossmont Hospital, Rehabilitation Unit",80000045.0,San Diego,0.0,3639.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palomar Health Downtown Campus,80000142.0,San Diego,0.0,0.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Palomar Health Downtown Campus, Rehabilitation Unit",80000142.0,San Diego,0.0,6757.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kaiser Foundation Hospital Zion Medical Center,80000144.0,San Diego,0.0,67641.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pomerado Hospital,80000147.0,San Diego,0.0,22539.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Scripps Memorial Hospital, La Jolla",80000149.0,San Diego,6.0,93568.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Scripps Memorial Hospital, Encinitas",80000150.0,San Diego,0.0,49072.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Scripps Memorial Hospital, Encinitas, Rehabilitation Unit",80000150.0,San Diego,0.0,6510.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Tri-City Medical Center,80000152.0,San Diego,1.0,62683.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Tri-City Medical Center, Rehabilitation Unit",80000152.0,San Diego,0.0,2654.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Mary Birch Hospital For Women And Newborns,80001470.0,San Diego,2.0,68356.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alvarado Hospital Medical Center,90000013.0,San Diego,3.0,23776.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alvarado Hospital Medical Center, Rehabilitation Unit",90000013.0,San Diego,0.0,2309.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Scripps Mercy Hospital Chula Vista,90000016.0,San Diego,1.0,38326.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Chula Vista Medical Center,90000021.0,San Diego,1.0,71661.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Scripps Mercy Hospital,90000025.0,San Diego,7.0,95968.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sharp Coronado Hospital and Healthcare Center,90000033.0,San Diego,0.0,7619.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),El Centro Regional Medical Center,90000040.0,Imperial,0.0,23725.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, San Diego",90000048.0,San Diego,6.0,19147.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Paradise Valley Hospital,90000145.0,San Diego,0.0,21303.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Paradise Valley Hospital, Rehabilitation Unit",90000145.0,San Diego,0.0,1766.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pioneers Memorial Healthcare District,90000146.0,Imperial,0.0,21913.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"UC San Diego Health Hillcrest, Hillcrest Medical Center",90000154.0,San Diego,1.0,35791.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Vibra Hospital of San Diego,90000977.0,San Diego,6.0,25529.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),UC San Diego Health La Jolla - Jacobs Medical Center & Sulpizio Cardiovascular Center,90001116.0,San Diego,12.0,152181.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Santa Rosa Regional Hospital,110000007.0,Sonoma,0.0,23146.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Howard Memorial,110000008.0,Mendocino,0.0,6748.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Healdsburg District Hospital,110000009.0,Sonoma,0.0,2780.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northbay Medical Center,110000010.0,Solano,0.0,36012.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital and Rehab Center, Vallejo",110000011.0,Solano,1.0,39967.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital and Rehab Center, Vallejo, Rehabilitation Unit",110000011.0,Solano,0.0,16273.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Lakeside Hospital,110000019.0,Lake,2.0,7340.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mad River Community Hospital,110000021.0,Humboldt,0.0,9338.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mendocino Coast District Hospital,110000023.0,Mendocino,0.0,4503.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sonoma West Medical Center,110000038.0,Sonoma,0.0,2965.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Petaluma Valley Hospital,110000040.0,Sonoma,0.0,12155.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Queen of the Valley Medical Center,110000041.0,Napa,1.0,31458.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Queen of the Valley Medical Center, Rehabilitation Unit",110000041.0,Napa,0.0,2829.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Clearlake,110000044.0,Lake,0.0,5313.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Redwood Memorial Hospital,110000045.0,Humboldt,0.0,5677.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Coast Hospital,110000049.0,Del Norte,0.0,7996.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Coast Hospital, Rehabilitation Unit",110000049.0,Del Norte,0.0,2058.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sonoma Valley Hospital,110000056.0,Sonoma,0.0,4271.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Jerold Phelps Community Hospital,110000057.0,Humboldt,0.0,1570.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health St. Helena,110000058.0,Napa,0.0,17648.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Joseph Hospital, Eureka",110000067.0,Humboldt,2.0,33768.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Solano Medical Center,110000068.0,Solano,0.0,19839.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),The General Hospital,110000069.0,Humboldt,0.0,2528.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Ukiah Valley,110000070.0,Mendocino,0.0,13148.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northbay Vacavalley Hospital,110000378.0,Solano,0.0,14986.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Santa Rosa",110000508.0,Sonoma,0.0,38443.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Rafael",110000944.0,Marin,0.0,19306.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kentfield Hospital,110000946.0,Marin,1.0,19854.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marin General Hospital,110000953.0,Marin,0.0,38209.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Novato Community Hospital,110000982.0,Marin,0.0,6367.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Good Samaritan Hospital, Bakersfield",120000319.0,Kern,1.0,6657.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Delano Regional Medical Center,120000336.0,Kern,2.0,8925.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Bakersfield Memorial Hospital,120000338.0,Kern,0.0,65522.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kern Medical Center,120000342.0,Kern,1.0,42709.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kern Valley Healthcare District,120000344.0,Kern,0.0,3249.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Hospital,120000404.0,Kern,0.0,20145.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ridgecrest Regional Hospital,120000409.0,Kern,0.0,7466.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Bakersfield,120000411.0,Kern,4.0,75656.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Tehachapi Valley,120000413.0,Kern,0.0,3724.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Healthsouth Bakersfield Rehabilitation Hospital,120000555.0,Kern,0.0,23772.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Southwest Hospital,120000701.0,Kern,0.0,27148.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Bakersfield Heart Hospital,120001330.0,Kern,0.0,11962.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kaweah Delta Medical Center,120001444.0,Tulare,12.0,113435.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaweah Delta Medical Center, Rehabilitation Unit",120001444.0,Tulare,0.0,6675.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sierra View Medical Center,120001464.0,Tulare,0.0,21643.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Tulare Regional Medical Center,120001467.0,Tulare,2.0,10602.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alameda Hospital,140000011.0,Alameda,0.0,12249.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alta Bates Summit Medical Center, Alta Bates Campus",140000012.0,Alameda,0.0,60928.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital & Research Center Oakland,140000014.0,Alameda,0.0,46418.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sutter Delta Medical Center,140000016.0,Contra Costa,0.0,30568.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Highland Hospital,140000034.0,Alameda,1.0,54817.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St Rose Hospital,140000041.0,Alameda,3.0,24144.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Washington Hospital,140000118.0,Alameda,1.0,61570.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, San Francisco Bay Area",140000148.0,Alameda,3.0,23921.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Eden Medical Center,140000183.0,Alameda,1.0,39713.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fairmont Hospital,140000184.0,Alameda,0.0,6549.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"John Muir Medical Center, Walnut Creek Campus",140000187.0,Contra Costa,2.0,95430.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"John Muir Medical Center, Walnut Creek Campus, Rehabilitation Unit",140000187.0,Contra Costa,0.0,7251.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Oakland/Richmond",140000188.0,Alameda,4.0,84733.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Walnut Creek",140000190.0,Contra Costa,0.0,59653.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Richmond Campus",140000191.0,Contra Costa,0.0,15124.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Contra Costa Regional Medical Center,140000195.0,Contra Costa,2.0,40074.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"John Muir Medical Center, Concord Campus",140000196.0,Contra Costa,2.0,52270.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alta Bates Summit Medical Center,140000425.0,Alameda,5.0,54488.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alta Bates Summit Medical Center, Rehabilitation Unit",140000425.0,Alameda,0.0,17996.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Ramon Regional Medical Center,140000704.0,Contra Costa,0.0,19905.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Stanford Health Care - ValleyCare,140000797.0,Alameda,0.0,31922.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Fremont",140001086.0,Alameda,0.0,18020.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Rosa Memorial Hospital,140001268.0,Sonoma,1.0,70065.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Santa Rosa Memorial Hospital, Rehabilitation Unit",140001268.0,Sonoma,0.0,4449.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sonoma Developmental Center,150000050.0,Sonoma,0.0,0.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fairview Developmental Center,170001767.0,Orange,0.0,408.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Porterville Developmental Center,170001874.0,Tulare,0.0,708.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, California West Campus Hospital",220000002.0,San Francisco,0.0,38391.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Chinese Hospital,220000003.0,San Francisco,0.0,6490.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Mateo Medical Center,220000007.0,San Mateo,2.0,13235.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Francisco",220000008.0,San Francisco,1.0,65767.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, South San Francisco",220000009.0,San Mateo,0.0,23129.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Redwood City",220000010.0,San Mateo,1.0,30807.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Laguna Honda Hospital & Rehabilitation Center,220000012.0,San Francisco,0.0,127.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Laguna Honda Hospital & Rehabilitation Center, Rehabilitation Unit",220000012.0,San Francisco,0.0,817.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mills-Peninsula Medical Center,220000017.0,San Mateo,0.0,51984.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, St. Luke's Campus Hospital",220000018.0,San Francisco,2.0,27451.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Zuckerberg San Francisco General Hospital and Trauma Center,220000019.0,San Francisco,2.0,95793.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, Pacific Campus Hospital",220000022.0,San Francisco,4.0,68481.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, Davies Campus Hospital",220000023.0,San Francisco,1.0,23263.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Pacific Medical Center, Davies Campus Hospital, Rehabilitation Unit",220000023.0,San Francisco,1.0,9254.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sequoia Hospital,220000025.0,San Mateo,0.0,25180.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Seton Medical Center,220000026.0,San Mateo,0.0,28656.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Francis Memorial Hospital,220000029.0,San Francisco,0.0,20366.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Saint Francis Memorial Hospital, Rehabilitation Unit",220000029.0,San Francisco,0.0,4160.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Mary's Medical Center,220000030.0,San Francisco,1.0,19564.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary's Medical Center, Rehabilitation Unit",220000030.0,San Francisco,0.0,4112.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),UCSF Medical Center,220000031.0,San Francisco,8.0,144096.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Menlo Park Surgical Hospital,220000716.0,San Mateo,0.0,484.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Orchard Hospital,230000001.0,Butte,0.0,1304.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Eastern Plumas Hospital, Portola Campus",230000004.0,Plumas,0.0,667.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Feather River,230000005.0,Butte,0.0,11772.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Glenn Medical Center,230000006.0,Glenn,0.0,1494.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Banner Lassen Medical Center,230000008.0,Lassen,0.0,4020.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mayers Memorial Hospital,230000009.0,Shasta,0.0,1845.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Medical Center Redding,230000010.0,Shasta,6.0,63208.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Modoc Medical Center,230000011.0,Modoc,0.0,542.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mercy Medical Center Mt. Shasta,230000012.0,Siskiyou,0.0,3076.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Enloe Medical Center, Esplanade",230000013.0,Butte,3.0,79120.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Oroville Hospital,230000014.0,Butte,1.0,37410.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Plumas District Hospital,230000015.0,Plumas,0.0,1909.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Shasta Regional Medical Center,230000016.0,Shasta,5.0,30368.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Seneca District Hospital,230000017.0,Plumas,0.0,436.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Fairchild Medical Center,230000019.0,Siskiyou,0.0,4394.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Elizabeth Community Hospital,230000020.0,Tehama,0.0,8732.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Trinity Hospital,230000022.0,Trinity,0.0,2066.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Rideout Memorial Hospital,230000261.0,Yuba,6.0,56457.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sierra Nevada Memorial Hospital,230000262.0,Nevada,1.0,19007.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Tahoe Forest Hospital,230000265.0,Nevada,0.0,5006.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Enloe Rehabilitation Center,230000405.0,Butte,0.0,7052.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Vibra Hospital of Northern California,230000422.0,Shasta,1.0,15841.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Patients' Hospital of Redding,230000444.0,Shasta,0.0,459.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Barstow Community Hospital,240000001.0,San Bernardino,1.0,7947.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Bear Valley Community Hospital,240000002.0,San Bernardino,0.0,962.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Chino Valley Medical Center,240000003.0,San Bernardino,0.0,15962.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mammoth Hospital,240000005.0,Mono,0.0,1380.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Montclair Hospital Medical Center,240000009.0,San Bernardino,0.0,9056.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hi-Desert Medical Center,240000014.0,San Bernardino,0.0,6765.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Fontana",240000024.0,San Bernardino,3.0,97075.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Medical Center East Campus Hospital,240000025.0,San Bernardino,1.0,14427.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Loma Linda University Medical Center East Campus Hospital, Rehabilitation Unit",240000025.0,San Bernardino,0.0,16904.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Medical Center,240000027.0,San Bernardino,12.0,101592.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Colorado River Medical Center,240000034.0,San Bernardino,0.0,1428.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northern Inyo Hospital,240000037.0,Inyo,0.0,4267.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Ontario",240000040.0,San Bernardino,9.0,27852.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Redlands Community Hospital,240000046.0,San Bernardino,2.0,46050.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Antonio Regional Hospital,240000053.0,San Bernardino,2.0,68073.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Victor Valley Global Medical Center,240000054.0,San Bernardino,1.0,21009.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital of San Bernardino,240000082.0,San Bernardino,0.0,27074.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Arrowhead Regional Medical Center,240000100.0,San Bernardino,3.0,97951.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Southern Inyo Hospital,240000102.0,Inyo,0.0,0.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),St. Bernardine Medical Center,240000103.0,San Bernardino,3.0,67296.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary Medical Center, Apple Valley",240000104.0,San Bernardino,5.0,70827.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ballard Rehabilitation Hospital,240001218.0,San Bernardino,0.0,14000.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Desert Valley Hospital,240001330.0,San Bernardino,1.0,36830.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Rancho",240001515.0,San Bernardino,2.0,18043.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Riverside",250000004.0,Riverside,4.0,12835.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Corona Regional Medical Center,250000006.0,Riverside,4.0,27039.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Desert Regional Medical Center,250000008.0,Riverside,3.0,86208.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Desert Regional Medical Center, Rehabilitation Unit",250000008.0,Riverside,0.0,2613.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Eisenhower Medical Center,250000011.0,Riverside,2.0,73821.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Eisenhower Medical Center, Rehabilitation Unit",250000011.0,Riverside,0.0,4677.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hemet Valley Medical Center,250000012.0,Riverside,4.0,44549.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),John F. Kennedy Memorial Hospital,250000017.0,Riverside,1.0,21417.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palo Verde Hospital,250000042.0,Riverside,0.0,2320.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Parkview Community Hospital Medical Center,250000044.0,Riverside,2.0,37449.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Riverside Community Hospital,250000049.0,Riverside,12.0,102012.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Riverside University Health System, Medical Center",250000050.0,Riverside,5.0,78480.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Gorgonio Memorial Hospital,250000101.0,Riverside,1.0,14843.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Southwest Healthcare System, Wildomar",250000344.0,Riverside,2.0,32639.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Southwest Healthcare System, Murrieta",250000507.0,Riverside,0.0,28550.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Riverside",250000707.0,Riverside,1.0,52986.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Menifee Valley Medical Center,250000727.0,Riverside,1.0,11858.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Ventura County Medical Center, Santa Paula Hospital",630010957.0,Ventura,0.0,6497.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Antioch",630011203.0,Contra Costa,0.0,29564.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Modesto",630011683.0,Stanislaus,0.0,37899.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Orange County, Irvine",630011745.0,Orange,1.0,46380.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Sutter Surgical Hospital, North Valley",630011844.0,Sutter,0.0,1283.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Moreno Valley",630011959.0,Riverside,0.0,17685.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Surgical Hospital,630012294.0,San Bernardino,0.0,4540.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Vacaville",630012364.0,Solano,2.0,28703.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Totally Kids Rehabilitation Hospital,630012380.0,San Bernardino,0.0,966.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hoag Orthopedic Institute,630012891.0,Orange,0.0,9482.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Hanford,630012960.0,Kings,7.0,42857.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Loma Linda University Medical Center, Murrieta",630012971.0,Riverside,0.0,31056.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Ontario",630013398.0,San Bernardino,0.0,47692.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palomar Medical Center,630013873.0,San Diego,4.0,95819.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Leandro Hospital,630013913.0,Alameda,0.0,12590.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Orange County, Anaheim",630013929.0,Orange,1.0,61348.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Temecula Valley Hospital,630014442.0,Riverside,0.0,29362.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Leandro",630015029.0,Alameda,1.0,52566.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Loma Linda University Children's Hospital,630015551.0,San Bernardino,2.0,90751.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),UCSF Medical Center at Mission Bay,630015778.0,San Francisco,3.0,91646.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),HealthSouth Rehabilitation Hospital of Modesto,630016419.0,Stanislaus,0.0,9980.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Kentfield Hospital San Francisco,630016625.0,San Francisco,1.0,8976.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, San Diego",630017096.0,San Diego,0.0,46420.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"California Hospital Medical Center, Los Angeles",930000002.0,Los Angeles,3.0,74772.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Promise Hospital of East Los Angeles, East L.A Campus",930000003.0,Los Angeles,1.0,4844.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Cedars-Sinai Medical Center,930000004.0,Los Angeles,5.0,276049.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Alhambra Hospital Medical Center,930000005.0,Los Angeles,1.0,20955.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Alhambra Hospital Medical Center, Rehabilitation Unit",930000005.0,Los Angeles,0.0,3993.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Antelope Valley Hospital,930000008.0,Los Angeles,4.0,91533.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Beverly Hospital,930000012.0,Los Angeles,2.0,38976.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Catalina Island Medical Center,930000013.0,Los Angeles,0.0,461.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Barlow Respiratory Hospital,930000014.0,Los Angeles,2.0,26215.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Southern California Hospital at Culver City,930000015.0,Los Angeles,5.0,58642.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Southern California Hospital at Culver City, Rehabilitation Unit",930000015.0,Los Angeles,0.0,4103.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Casa Colina Hospital,930000020.0,Los Angeles,1.0,21712.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Centinela Hospital Medical Center,930000022.0,Los Angeles,7.0,60885.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Centinela Hospital Medical Center, Rehabilitation Unit",930000022.0,Los Angeles,0.0,3317.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Huntington Memorial Hospital,930000026.0,Los Angeles,5.0,122626.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Mission Community Hospital,930000027.0,Los Angeles,1.0,36181.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),West Hills Hospital & Medical Center,930000028.0,Los Angeles,6.0,43413.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),California Rehabilitation Institute,930000031.0,Los Angeles,0.0,24405.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Promise Hospital of East Los Angeles, Suburban Campus",930000033.0,Los Angeles,11.0,40312.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Children's Hospital Los Angeles,930000034.0,Los Angeles,0.0,111176.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Silver Lake Medical Center,930000035.0,Los Angeles,0.0,12113.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),City of Hope Helford Clinical Research Hospital,930000036.0,Los Angeles,6.0,71824.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Coast Plaza Hospital,930000038.0,Los Angeles,1.0,12300.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, South Bay",930000039.0,Los Angeles,4.0,16068.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital of Huntington Park,930000040.0,Los Angeles,0.0,14531.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Gabriel Valley Medical Center,930000041.0,Los Angeles,1.0,35701.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, San Gabriel Valley",930000042.0,Los Angeles,4.0,22184.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Marina Del Rey Hospital,930000044.0,Los Angeles,3.0,13085.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Lakewood Regional Medical Center,930000047.0,Los Angeles,3.0,40508.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Santa Monica - UCLA Medical Center and Orthopaedic Hospital,930000049.0,Los Angeles,8.0,85329.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Panorama City",930000050.0,Los Angeles,2.0,41701.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"PIH Health Hospital, Downey",930000052.0,Los Angeles,1.0,29165.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),East Los Angeles Doctors Hospital,930000053.0,Los Angeles,0.0,15225.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Encino Hospital Medical Center,930000054.0,Los Angeles,1.0,12241.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Foothill Presbyterian Hospital - Johnston Memorial,930000056.0,Los Angeles,1.0,23068.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pacific Alliance Medical Center,930000057.0,Los Angeles,0.0,19630.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Garfield Medical Center,930000058.0,Los Angeles,1.0,53595.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Garfield Medical Center, Rehabilitation Unit",930000058.0,Los Angeles,0.0,5957.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health Glendale,930000059.0,Los Angeles,5.0,75317.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Adventist Health Glendale, Rehabilitation Unit",930000059.0,Los Angeles,0.0,6583.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Glendora Community Hospital,930000060.0,Los Angeles,1.0,14483.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Greater El Monte Community Hospital,930000062.0,Los Angeles,0.0,15670.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Henry Mayo Newhall Hospital,930000063.0,Los Angeles,1.0,53810.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Henry Mayo Newhall Hospital, Rehabilitation Unit",930000063.0,Los Angeles,0.0,1856.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Southern California Hospital at Hollywood,930000064.0,Los Angeles,4.0,21120.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Hollywood Presbyterian Medical Center,930000065.0,Los Angeles,4.0,61407.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Hollywood Presbyterian Medical Center, Rehabilitation Unit",930000065.0,Los Angeles,0.0,4576.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Holy Cross Medical Center,930000066.0,Los Angeles,9.0,81747.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Providence Holy Cross Medical Center, Rehabilitation Unit",930000066.0,Los Angeles,0.0,3010.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Good Samaritan Hospital, Los Angeles",930000068.0,Los Angeles,2.0,64535.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Citrus Valley Medical Center, IC Campus",930000070.0,Los Angeles,3.0,35198.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, South Bay",930000071.0,Los Angeles,3.0,46060.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Los Angeles",930000072.0,Los Angeles,8.0,118218.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Downey",930000074.0,Los Angeles,4.0,88399.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, West LA",930000076.0,Los Angeles,2.0,40195.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Palmdale Regional Medical Center,930000077.0,Los Angeles,0.0,38052.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Palmdale Regional Medical Center, Rehabilitation Unit",930000077.0,Los Angeles,0.0,2114.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Little Company of Mary Medical Center Torrance,930000081.0,Los Angeles,2.0,70702.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Community Hospital Long Beach,930000082.0,Los Angeles,1.0,16649.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Los Angeles Community Hospital,930000085.0,Los Angeles,6.0,28248.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Los Angeles",930000088.0,Los Angeles,15.0,28436.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, La Mirada",930000089.0,Los Angeles,5.0,19047.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Tarzana Medical Center,930000091.0,Los Angeles,1.0,65522.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Memorial Hospital of Gardena,930000092.0,Los Angeles,2.0,24102.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Glendale Memorial Hospital and Health Center,930000093.0,Los Angeles,3.0,45590.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Glendale Memorial Hospital and Health Center, Rehabilitation Unit",930000093.0,Los Angeles,0.0,3560.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Long Beach Memorial Medical Center,930000095.0,Los Angeles,5.0,95742.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Long Beach Memorial Medical Center, Rehabilitation Unit",930000095.0,Los Angeles,0.0,7189.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Methodist Hospital of Southern California,930000096.0,Los Angeles,4.0,69800.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Methodist Hospital of Southern California, Rehabilitation Unit",930000096.0,Los Angeles,0.0,6274.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"PIH Health Hospital, Whittier",930000099.0,Los Angeles,2.0,68479.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"PIH Health Hospital, Whittier, Rehabilitation Unit",930000099.0,Los Angeles,0.0,2457.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Saint John's Health Center,930000100.0,Los Angeles,0.0,63053.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Saint Joseph Medical Center,930000101.0,Los Angeles,6.0,83231.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Providence Saint Joseph Medical Center, Rehabilitation Unit",930000101.0,Los Angeles,0.0,2391.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary Medical Center, Long Beach",930000103.0,Los Angeles,4.0,52385.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"St. Mary Medical Center, Long Beach, Rehabilitation Unit",930000103.0,Los Angeles,0.0,4841.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Vincent Medical Center,930000104.0,Los Angeles,3.0,60180.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Saint Vincent Medical Center, Rehabilitation Unit",930000104.0,Los Angeles,0.0,5386.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Olympia Medical Center,930000105.0,Los Angeles,0.0,25081.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Monrovia Memorial Hospital,930000107.0,Los Angeles,1.0,12841.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Monterey Park Hospital,930000108.0,Los Angeles,0.0,22058.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Northridge Hospital Medical Center,930000111.0,Los Angeles,2.0,50993.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Northridge Hospital Medical Center, Rehabilitation Unit",930000111.0,Los Angeles,0.0,5454.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Norwalk Community Hospital,930000112.0,Los Angeles,1.0,15912.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),College Medical Center,930000114.0,Los Angeles,0.0,25131.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Pomona Valley Hospital Medical Center,930000123.0,Los Angeles,4.0,100584.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),San Dimas Community Hospital,930000125.0,Los Angeles,0.0,14932.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Torrance Memorial Medical Center,930000127.0,Los Angeles,4.0,98020.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Saint Francis Medical Center,930000128.0,Los Angeles,2.0,118114.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Valley Presbyterian Hospital,930000129.0,Los Angeles,3.0,66831.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Valley Presbyterian Hospital, Rehabilitation Unit",930000129.0,Los Angeles,0.0,3269.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Citrus Valley Medical Center, QV Campus",930000132.0,Los Angeles,2.0,59509.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Citrus Valley Medical Center, QV Campus, Rehabilitation Unit",930000132.0,Los Angeles,0.0,3798.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Sherman Oaks Hospital,930000140.0,Los Angeles,4.0,22463.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Baldwin Park",930000144.0,Los Angeles,5.0,25819.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Whittier Hospital Medical Center,930000151.0,Los Angeles,1.0,35070.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Providence Little Company of Mary Medical Center San Pedro,930000157.0,Los Angeles,0.0,18764.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Providence Little Company of Mary Medical Center San Pedro, Rehabilitation Unit",930000157.0,Los Angeles,0.0,4701.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Miracle Mile Medical Center,930000158.0,Los Angeles,0.0,392.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Ronald Reagan UCLA Medical Center,930000162.0,Los Angeles,12.0,156313.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),USC Kenneth Norris Jr. Cancer Hospital,930000163.0,Los Angeles,0.0,12287.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),USC Verdugo Hills Hospital,930000187.0,Los Angeles,1.0,19193.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),West Covina Medical Center,930000188.0,Los Angeles,0.0,1692.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Adventist Health White Memorial,930000191.0,Los Angeles,1.0,87998.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Adventist Health White Memorial, Rehabilitation Unit",930000191.0,Los Angeles,0.0,3044.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Woodland Hills",930000290.0,Los Angeles,1.0,34184.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Keck Hospital of USC,930000912.0,Los Angeles,5.0,79300.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Keck Hospital of USC, Rehabilitation Unit",930000912.0,Los Angeles,0.0,5575.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kaiser Foundation Hospital, Baldwin Park",930001543.0,Los Angeles,0.0,49111.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),"Kindred Hospital, Santa Ana",930001607.0,Orange,3.0,15255.0
+2017,California,Methicillin-Resistant Staphylococcus aureus Bloodstream Infections (MRSA BSI),Earl & Loraine Miller Children's Hospital,930001709.0,Los Angeles,2.0,72230.0
