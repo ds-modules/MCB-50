@@ -1,9 +1,8 @@
 # line graph widget
 def infection_rates_per_county():
-    import ipywidgets as widgets
-    %matplotlib inline
+    !pip install ipywidgets 
+    # %matplotlib inline
     from ipywidgets import interact, interactive, fixed, interact_manual
-    
     def line_county(County):
         plt.figure(figsize=(10,5));
         x = list(mrsa_merged.loc[mrsa_merged['County']== County].groupby(['Year']).agg(sum).index)
@@ -24,8 +23,8 @@ def infection_rates_per_county():
 
 # scatter plot widget - population versus infection rate per county by year
 def population_vs_infection_by_county():
-    import ipywidgets as widgets
-    %matplotlib inline
+    pip install ipywidgets 
+    # %matplotlib inline
     from ipywidgets import interact, interactive, fixed, interact_manual   
     
     def pop_v_infec_by_county(county):    
@@ -49,8 +48,8 @@ def population_vs_infection_by_county():
 
 # scatter plot widget - population versus infection rate by year
 def population_vs_infection_by_year():
-    import ipywidgets as widgets
-    %matplotlib inline
+    pip install ipywidgets 
+    # %matplotlib inline
     from ipywidgets import interact, interactive, fixed, interact_manual
     
     def pop_v_infec_by_year(year):    
