@@ -1,8 +1,16 @@
 # line graph widget
 def infection_rates_per_county():
-    !pip install ipywidgets 
-    # %matplotlib inline
+ 
+    import numpy as np
+    import pandas as pd
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+    plt.style.use('fivethirtyeight')
+    import ipywidgets as widgets
     from ipywidgets import interact, interactive, fixed, interact_manual
+    
+    mrsa_merged = pd.read_csv('mrsa_merged.csv')
+        
     def line_county(County):
         plt.figure(figsize=(10,5));
         x = list(mrsa_merged.loc[mrsa_merged['County']== County].groupby(['Year']).agg(sum).index)
@@ -10,31 +18,43 @@ def infection_rates_per_county():
         sns.lineplot(x,y)
         plt.xlabel("Year")
         plt.ylabel("County");
-        return 
-
-    wid_1 = widgets.Dropdown(
-            options = mrsa_merged['County'].unique().tolist(),
-            description = 'County',
-            disabled = False
-    )
+    
+    wid_1 = widgets.Dropdown(options = mrsa_merged['County'].unique().tolist(),description = 'County',disabled = False)
 
     interact(line_county, County = wid_1);
+    
+    
 
 
-# scatter plot widget - population versus infection rate per county by year
-def population_vs_infection_by_county():
-    pip install ipywidgets 
-    # %matplotlib inline
-    from ipywidgets import interact, interactive, fixed, interact_manual   
+# widget 2
+def population_v_infection_by_county():
+    import numpy as np
+    import pandas as pd
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+    plt.style.use('fivethirtyeight')
+    import ipywidgets as widgets
+    from ipywidgets import interact, interactive, fixed, interact_manual
+    
+    mrsa_merged = pd.read_csv('mrsa_merged.csv')
+    infec_pop_merge = pd.read_csv('infec_pop_merge.csv')
     
     def pop_v_infec_by_county(county):    
-        
         df = infec_pop_merge.loc[infec_pop_merge['County'] == county]  
-        p = sns.lmplot(x='Total_Population',y='Infection_Count',data=df,ci=None,aspect=2)
-        plt.title('Population Versus Infection Rate Per County Across Years')
-        plt.xlabel("Total Population by Year")
+        p = sns.lmplot(x='Year',y='Infec_Div_Pop',data=df,ci=None,height=6,aspect=2)
+        title = 'Infection Count Per 100,000 People in '+county+' County'
+        plt.title(title)
+        plt.xlabel("Year")
         plt.ylabel("Infection Rate")
         plt.setp(p.ax.lines,linewidth=2)
+
+        ylims = (-.1,2)
+        if (df['Infec_Div_Pop'].min()>=2) and (df['Infec_Div_Pop'].max()<=4):
+            ylims = (1.9,4)
+
+        plt.ylim(ylims[0],ylims[1])
+
+       # print('Correlation: ',df.corr()['Total_Population']['Infection_Count'])
         return 
 
     wid_2 = widgets.Dropdown(
@@ -44,28 +64,42 @@ def population_vs_infection_by_county():
     )
 
     interact(pop_v_infec_by_county, county = wid_2);
-
+    
 
 # scatter plot widget - population versus infection rate by year
 def population_vs_infection_by_year():
-    pip install ipywidgets 
-    # %matplotlib inline
+    import numpy as np
+    import pandas as pd
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+    plt.style.use('fivethirtyeight')
+    import ipywidgets as widgets
     from ipywidgets import interact, interactive, fixed, interact_manual
     
+    mrsa_merged = pd.read_csv('mrsa_merged.csv')
+    infec_pop_merge = pd.read_csv('infec_pop_merge.csv')
+    
     def pop_v_infec_by_year(year):    
-        
+    
         df = infec_pop_merge.loc[infec_pop_merge['Year'] == year]  
-        p = sns.lmplot(x='Total_Population',y='Infection_Count',data=df,ci=None,aspect=2)
-        plt.title('Population Versus Infection Rate Across Counties Over the Year')
-        plt.xlabel("Total Population")
-        plt.ylabel("Infection Rate ")
-        plt.setp(p.ax.lines,linewidth=2)
-        return 
+        df = df.drop(df['Total_Population'].idxmax())
+        df['pop_by_100k'] = infec_pop_merge['Total_Population']/100000
 
-    wid_3 = widgets.Dropdown(
+        p = sns.lmplot(x='pop_by_100k',y='Infection_Count',data=df,ci=None,height=6,aspect=2)
+        title = 'Infection Count Across Counties in Year '+ str(year)
+        plt.title(title)
+        plt.xlabel("Total Population Unit 100,000 People")
+        plt.ylabel("Infection Count")
+        plt.setp(p.ax.lines,linewidth=2)
+
+        plt.ylim(-5,83)
+
+        print('Slope of Regression Line: ',df.corr()['pop_by_100k']['Infection_Count'])
+
+    wid_year = widgets.Dropdown(
             options = infec_pop_merge['Year'].unique().tolist(),
             description = 'Year',
             disabled = False
     )
 
-    interact(pop_v_infec_by_year, year = wid_3);
+    interact(pop_v_infec_by_year, year = wid_year);
