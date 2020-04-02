@@ -16,6 +16,7 @@ def infection_rates_per_county():
         x = list(mrsa_merged.loc[mrsa_merged['County']== County].groupby(['Year']).agg(sum).index)
         y = list(mrsa_merged.loc[mrsa_merged['County']== County].groupby(['Year']).agg(sum)['Infection_Count'])
         sns.lineplot(x,y)
+        plt.title('Infection Rates Per County')
         plt.xlabel("Year")
         plt.ylabel("County");
     
