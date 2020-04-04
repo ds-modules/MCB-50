@@ -1,6 +1,6 @@
 # line graph widget
 def infection_rates_per_county():
- 
+    
     import numpy as np
     import pandas as pd
     import seaborn as sns
@@ -10,25 +10,30 @@ def infection_rates_per_county():
     from ipywidgets import interact, interactive, fixed, interact_manual
     
     mrsa_merged = pd.read_csv('mrsa_merged.csv')
-        
-    def line_county(County):
+    
+    def line_county(county):
         plt.figure(figsize=(10,5));
-        x = list(mrsa_merged.loc[mrsa_merged['County']== County].groupby(['Year']).agg(sum).index)
-        y = list(mrsa_merged.loc[mrsa_merged['County']== County].groupby(['Year']).agg(sum)['Infection_Count'])
+        x = list(mrsa_merged.loc[mrsa_merged['County']== county].groupby(['Year']).agg(sum).index)
+        y = list(mrsa_merged.loc[mrsa_merged['County']== county].groupby(['Year']).agg(sum)['Infection_Count'])
         sns.lineplot(x,y)
-        plt.title('Infection Rates Per County')
+        title = 'Infection Count in '+county+' County Per Year'
+        plt.title(title)
         plt.xlabel("Year")
-        plt.ylabel("County");
-    
-    wid_1 = widgets.Dropdown(options = mrsa_merged['County'].unique().tolist(),description = 'County',disabled = False)
+        plt.ylabel("Infection Count");
+        return 
 
-    interact(line_county, County = wid_1);
-    
-    
+    wid_1 = widgets.Dropdown(
+            options = mrsa_merged['County'].unique().tolist(),
+            description = 'County',
+            disabled = False
+    )
 
+    interact(line_county, county = wid_1);
 
+    
 # widget 2
 def population_v_infection_by_county():
+    
     import numpy as np
     import pandas as pd
     import seaborn as sns
@@ -67,7 +72,7 @@ def population_v_infection_by_county():
     interact(pop_v_infec_by_county, county = wid_2);
     
 
-# scatter plot widget - population versus infection rate by year
+# year widget
 def population_vs_infection_by_year():
     import numpy as np
     import pandas as pd
@@ -96,7 +101,8 @@ def population_vs_infection_by_year():
         plt.ylim(-5,83)
 
         print('Slope of Regression Line: ',df.corr()['pop_by_100k']['Infection_Count'])
-
+        return 
+    
     wid_year = widgets.Dropdown(
             options = infec_pop_merge['Year'].unique().tolist(),
             description = 'Year',
