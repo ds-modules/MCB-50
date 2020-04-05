@@ -6,7 +6,7 @@
 
 **Developers: Rucha Kelkar, Harry Li**
 
-**MRSA Data Analysis Notebook**
+## MRSA Data Analysis Notebook
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/MCB-50/master)
 [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=MCB-50&branch=master&path=MRSA%20Data%20Analysis.ipynb)
