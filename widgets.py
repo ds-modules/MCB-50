@@ -9,7 +9,7 @@ def infection_rates_per_county():
     import ipywidgets as widgets
     from ipywidgets import interact, interactive, fixed, interact_manual
     
-    mrsa_merged = pd.read_csv('mrsa_merged.csv')
+    mrsa_merged = pd.read_csv('data/mrsa_merged.csv')
     
     def line_county(county):
         plt.figure(figsize=(10,5));
@@ -42,8 +42,8 @@ def population_v_infection_by_county():
     import ipywidgets as widgets
     from ipywidgets import interact, interactive, fixed, interact_manual
     
-    mrsa_merged = pd.read_csv('mrsa_merged.csv')
-    infec_pop_merge = pd.read_csv('infec_pop_merge.csv')
+    mrsa_merged = pd.read_csv('data/mrsa_merged.csv')
+    infec_pop_merge = pd.read_csv('data/infec_pop_merge.csv')
     
     def pop_v_infec_by_county(county):    
         df = infec_pop_merge.loc[infec_pop_merge['County'] == county]  
@@ -82,8 +82,8 @@ def population_vs_infection_by_year():
     import ipywidgets as widgets
     from ipywidgets import interact, interactive, fixed, interact_manual
     
-    mrsa_merged = pd.read_csv('mrsa_merged.csv')
-    infec_pop_merge = pd.read_csv('infec_pop_merge.csv')
+    mrsa_merged = pd.read_csv('data/mrsa_merged.csv')
+    infec_pop_merge = pd.read_csv('data/infec_pop_merge.csv')
     
     def pop_v_infec_by_year(year):    
     
